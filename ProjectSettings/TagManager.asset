@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - energy_block
+  - pre_energy_block
+  - ground
+  - Skill
+  - atk
+  - mouse
+  - Enemy
+  - grass
+  - water
+  - jianci
+  - Enemy_Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - chara
+  - obj
+  - effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: effect
+    uniqueID: 3288918145
+    locked: 0
+  - name: chara
+    uniqueID: 1954788649
+    locked: 0
+  - name: enemy
+    uniqueID: 1755710397
+    locked: 0
+  - name: obj
+    uniqueID: 2473492501
+    locked: 0
+  - name: atk
+    uniqueID: 1403480391
+    locked: 0
+  - name: grass
+    uniqueID: 3731885729
+    locked: 0
